@@ -16,6 +16,10 @@ Recientemente terminé satisfactoriamente el bootcamp de **Soyhenry** en el que 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redabjs&show_icons=true&locale=en&layout=compact" alt="redabjs" /></p>
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
