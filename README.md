@@ -20,6 +20,9 @@ Recientemente terminé satisfactoriamente el bootcamp de **Soyhenry** en el que 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
