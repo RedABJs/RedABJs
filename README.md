@@ -2,6 +2,12 @@
 
 ### ¿Quién Soy?
 
+Soy un **Desarrollador Web Full Stack** apasionado por el aprendizaje y mejora continua. Además, fui estudiante de **Ingeniería Industrial** por 5 años, experiencia que me permitió conocer la programación y ver en ella un futuro profesional. También soy músico (Guitarrista 🎸) y he pertenecido a distintas agrupaciones de folclor, jazz y fusión.
+
+### ¿Qué hago?
+
+Recientemente terminé satisfactoriamente el bootcamp de **Soyhenry** en el que aprendí las herramientas necesarias para inicar mi carrera en la industria tech. A la par, sigo aprendiendo y adquiriendo habilidades, especificamente profundizando en el lenguaje Java con el fin de aprender a crear bases de datos mejor estructuradas.  
+
 <!--
 **RedABJs/RedABJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
