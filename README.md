@@ -15,6 +15,8 @@ Recientemente terminé satisfactoriamente el bootcamp de **Soyhenry** en el que 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redabjs&show_icons=true&locale=en&layout=compact" alt="redabjs" /></p>
 
+<br/>
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="linkedin.com/in/james-andrey-santos-gaviria-1198a5258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james andrey santos gaviria" height="30" width="40" /></a>
