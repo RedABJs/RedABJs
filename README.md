@@ -21,13 +21,18 @@ Recientemente terminé satisfactoriamente el bootcamp de **Soyhenry** en el que 
 <br/>
 <br/>
 <br/>
-<br/>
 
 
-<h3 align="left">Conecta conmigo:</h3>
+<h4 align="left">Conecta conmigo:</h4>
 <p align="left">
 <a href="linkedin.com/in/james-andrey-santos-gaviria-1198a5258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james andrey santos gaviria" height="30" width="40" /></a>
 </p>
+
+<br/>
+<br/>
+
+<h4 align="left">Conecta conmigo:</h4>
+<p align="left">jamesanga0318@gmail.com</p>
 
 <!--
 **RedABJs/RedABJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
