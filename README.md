@@ -6,7 +6,7 @@ Soy un **Desarrollador Web Full Stack** apasionado por el aprendizaje y mejora c
 
 ### ¿Qué hago?
 
-Recientemente terminé satisfactoriamente el bootcamp de **Soyhenry** en el que aprendí las herramientas necesarias para inicar mi carrera en la industria tech. A la par, sigo aprendiendo y adquiriendo habilidades, especificamente profundizando en el lenguaje Java con el fin de aprender a crear bases de datos mejor estructuradas.
+Recientemente me desempeño como Auxiliar de Monitoreo para el "Proyecto de ampliación de la respuesta al VIH" ejecutado por la alianza entre EnTerritorio y el Hospital San Juan de Dios de Honda E.S.E. Con este rol en el proyecto he podido poner en practica conocimientos de desarrollo web, bases de datos y analisis de datos. Desarrollé una prueba de concepto en la que uso GoogleSheets como base de datos y presento información en un aplicativo web que permite hacer consultas y resume toda la información.
 
 
 
